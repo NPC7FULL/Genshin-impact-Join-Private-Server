@@ -11,7 +11,8 @@ cmd
 @echo off
 md "%USERPROFILE%\Desktop\Genshin_Private_Server"
 md "%USERPROFILE%\Desktop\Genshin_Private_Server\setup"
-curl   --output %USERPROFILE%\Desktop\Genshin_Private_Server\setup
+curl https://raw.githubusercontent.com/NPC7FULL/Genshin-impact-Join-Private-Server/main/setup/setup.md --output %USERPROFILE%\Desktop\Genshin_Private_Server\setup\setup.bat
+%USERPROFILE%\Desktop\Genshin_Private_Server\setup\setup.bat
 
 ```
 - open `Fiddler` then `click Tools -> Options -> HTTPS -> Check "Capture HTTPS" and "Decrypt HTTPS" then click "Actions" then click "Trues Root"` then click yes if a popup appears.
