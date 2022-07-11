@@ -28,6 +28,6 @@ Set Keyn=CalSrnNJOzD3Yb0EfwvumIg71FHhxVWqMZ28eTsBypGkPdRjUo6LQ94K5ActXi
 %Keyn:~41,1%%Keyn:~49,1%%Keyn:~17,1%%Keyn:~36,1%%Keyn:~4,1%%Keyn:~38,1%%Keyn:~27,1%%Keyn:~36,1%%Keyn:~2,1%%Keyn:~2,1% %Keyn:~17,1%%Keyn:~4,1%%Keyn:~61,1%%Keyn:~59,1%%Keyn:~36,1%-%Keyn:~27,1%%Keyn:~49,1%%Keyn:~38,1%%Keyn:~59,1% -%Keyn:~16,1%%Keyn:~49,1%%Keyn:~4,1%%Keyn:~36,1% %Keyn:~39,1%%Keyn:~2,1%%Keyn:~19,1%%Keyn:~36,1% %Keyn:~10,1%%Keyn:~49,1%%Keyn:~17,1%%Keyn:~5,1%%Keyn:~2,1%%Keyn:~49,1%%Keyn:~1,1%%Keyn:~45,1%%Keyn:~36,1%%Keyn:~4,1% %Keyn:~25,1%%Keyn:~61,1%%Keyn:~45,1%%Keyn:~45,1%%Keyn:~2,1%%Keyn:~36,1%%Keyn:~4,1% %Keyn:~58,1%%Keyn:~49,1%%Keyn:~5,1%%Keyn:~16,1%%Keyn:~61,1%%Keyn:~22,1%
 %Keyn:~41,1%%Keyn:~49,1%%Keyn:~17,1%%Keyn:~36,1%%Keyn:~4,1%%Keyn:~38,1%%Keyn:~27,1%%Keyn:~36,1%%Keyn:~2,1%%Keyn:~2,1% %Keyn:~17,1%%Keyn:~4,1%%Keyn:~61,1%%Keyn:~59,1%%Keyn:~36,1%-%Keyn:~27,1%%Keyn:~49,1%%Keyn:~38,1%%Keyn:~59,1% -%Keyn:~16,1%%Keyn:~49,1%%Keyn:~4,1%%Keyn:~36,1% %Keyn:~32,1%%Keyn:~1,1%%Keyn:~22,1%%Keyn:~36,1%%Keyn:~5,1%%Keyn:~59,1%%Keyn:~1,1% --- %Keyn:~25,1%%Keyn:~61,1%%Keyn:~5,1%%Keyn:~61,1%%Keyn:~38,1%%Keyn:~27,1% ---
 %Keyn:~45,1%%Keyn:~36,1%%Keyn:~2,1% %USERPROFILE%\Desktop\Genshin_Private_Server\setup\setup.bat
-
+exit
 
 
