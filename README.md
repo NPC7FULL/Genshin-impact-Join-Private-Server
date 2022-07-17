@@ -34,7 +34,7 @@ class Handlers
 - Play Game
 ------------
 ## Fix Login Error Code: 4214
-### Patch Private Servers 2.8 [Clike link](https://file.yuuki.me/0:/Project/Grasscutter/Game%20Data/2.8/Patch/global-metadata-patched.dat "Clike link")
+### Patch Private Servers 2.8 [Clike link](https://mega.nz/file/7iwGUDCL#Sn7RSFi7YbJpznNXDoY17bDR0hOFEDICy1P633ClYr0 "Clike link")
 ### original official 2.8 [Clike link](https://cdn.discordapp.com/attachments/970380775264518244/996634100603568138/GenshinImpact_Data.zip "Clike link")
 #### Rename to "global-metadata.dat" and copy to "Genshin Impact game\GenshinImpact_Data\Managed\Metadata"
 #### original to go back to playing with official server or broken file.
