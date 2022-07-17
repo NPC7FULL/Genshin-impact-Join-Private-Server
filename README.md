@@ -40,4 +40,5 @@ class Handlers
 #### original to go back to playing with official server or broken file.
 ------------
 ### Login with your username then password with random then login.
-### Command GM_Handbook  [Clike link](https://github.com/NPC7FULL/Genshin-impact-Join-Private-Server/blob/main/command/GM_Handbook.txt "Clike link")
+### Command GM_Handbook 2.8  [Clike link](https://github.com/NPC7FULL/Genshin-impact-Join-Private-Server/blob/main/command/GM_Handbook%202.8.txt "Clike link")
+### Command GM_Handbook 2.7  [Clike link](https://github.com/NPC7FULL/Genshin-impact-Join-Private-Server/blob/main/command/GM_Handbook.txt "Clike link")
