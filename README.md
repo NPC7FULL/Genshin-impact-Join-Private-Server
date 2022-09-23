@@ -26,6 +26,7 @@ class Handlers
 {
     static function OnBeforeRequest(oS: Session) {
         if(oS.host.EndsWith(".yuanshen.com") || oS.host.EndsWith(".hoyoverse.com") || oS.host.EndsWith(".mihoyo.com") || oS.uriContains("http://overseauspider.yuanshen.com:8888/log")) {
+            //New Update 3.0
             oS.host = "sg.genshin.ps.yuuki.me";
         }
     }
