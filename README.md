@@ -1,4 +1,4 @@
-# How to Genshin impact Join Private Server
+# How to Genshin impact Join Private Server New 3.0
 - Before starting, open game first and then logout if you have logged in before and then exit again.
 ------------
 - open `PowerShell (Admin)` and run `cmd`
@@ -25,8 +25,8 @@ import System.Text.RegularExpressions;
 class Handlers
 {
     static function OnBeforeRequest(oS: Session) {
-        if(oS.host.EndsWith(".yuanshen.com") || oS.host.EndsWith(".hoyoverse.com") || oS.host.EndsWith(".mihoyo.com")) {
-            oS.host = "sg.game.yuuki.me";
+        if(oS.host.EndsWith(".yuanshen.com") || oS.host.EndsWith(".hoyoverse.com") || oS.host.EndsWith(".mihoyo.com") || oS.uriContains("http://overseauspider.yuanshen.com:8888/log")) {
+            oS.host = "sg.genshin.ps.yuuki.me";
         }
     }
 };
@@ -34,11 +34,12 @@ class Handlers
 - Play Game
 ------------
 ## Fix Login Error Code: 4214
-### Patch Private Servers 2.8 [Clike link](https://mega.nz/file/7iwGUDCL#Sn7RSFi7YbJpznNXDoY17bDR0hOFEDICy1P633ClYr0 "Clike link")
-### original official 2.8 [Clike link](https://cdn.discordapp.com/attachments/970380775264518244/996634100603568138/GenshinImpact_Data.zip "Clike link")
+### Patch Private Servers 3.0 [Clike link](https://mega.nz/file/Gv42Sb5R#_QwwSROMBO0Bk_wofLrTqR48x68PhhtD0Ld8ImniJUE "Clike link")
+### original official 3.0 [Clike link](https://mega.nz/file/6r4lCYwS#XJVXeFV9In894Ropd3LRnDa7fUmna3JR459kfkGKuKk "Clike link")
 #### Rename to "global-metadata.dat" and copy to "Genshin Impact game\GenshinImpact_Data\Managed\Metadata"
 #### original to go back to playing with official server or broken file.
 ------------
 ### Login with your username then password with random then login.
+### Command GM_Handbook 3.0  [Clike link](https://raw.githubusercontent.com/NPC7FULL/Genshin-impact-Join-Private-Server/main/command/GM_Handbook_-_EN.txt "Clike link")
 ### Command GM_Handbook 2.8  [Clike link](https://github.com/NPC7FULL/Genshin-impact-Join-Private-Server/blob/main/command/GM_Handbook%202.8.txt "Clike link")
 ### Command GM_Handbook 2.7  [Clike link](https://github.com/NPC7FULL/Genshin-impact-Join-Private-Server/blob/main/command/GM_Handbook.txt "Clike link")
